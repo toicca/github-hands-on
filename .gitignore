@@ -1,0 +1,4 @@
+*.yoda
+/rivet-plots*
+html_z
+*.log
